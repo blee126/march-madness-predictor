@@ -1,0 +1,17 @@
+{
+  "name": "march-madness",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python -m uvicorn main:app --reload",
+    "build": "npm run build:backend && cd frontend && npm run build",
+    "build:backend": "cd backend && python train_model.py",
+    "start": "cd frontend && npm run start",
+    "install:all": "npm install && cd frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "year": 2026,
+  "regions": [
+    [
+      [
+        [{"seed": 1, "team": "Duke"}, {"seed": 16, "team": "Siena"}],
+        [{"seed": 8, "team": "Ohio St."}, {"seed": 9, "team": "TCU"}],
+        [{"seed": 5, "team": "St. John's"}, {"seed": 12, "team": "Northern Iowa"}],
+        [{"seed": 4, "team": "Kansas"}, {"seed": 13, "team": "Cal Baptist"}],
+        [{"seed": 6, "team": "Louisville"}, {"seed": 11, "team": "South Florida"}],
+        [{"seed": 3, "team": "Michigan St."}, {"seed": 14, "team": "North Dakota St."}],
+        [{"seed": 7, "team": "UCLA"}, {"seed": 10, "team": "UCF"}],
+        [{"seed": 2, "team": "UConn"}, {"seed": 15, "team": "Furman"}]
+      ]
+    ],
+    [
+      [
+        [{"seed": 1, "team": "Arizona"}, {"seed": 16, "team": "Long Island"}],
+        [{"seed": 8, "team": "Villanova"}, {"seed": 9, "team": "Utah St."}],
+        [{"seed": 5, "team": "Wisconsin"}, {"seed": 12, "team": "High Point"}],
+        [{"seed": 4, "team": "Arkansas"}, {"seed": 13, "team": "Hawaii"}],
+        [{"seed": 6, "team": "BYU"}, {"seed": 11, "team": "Texas"}],
+        [{"seed": 3, "team": "Gonzaga"}, {"seed": 14, "team": "Kennesaw St."}],
+        [{"seed": 7, "team": "Miami (FL)"}, {"seed": 10, "team": "Missouri"}],
+        [{"seed": 2, "team": "Purdue"}, {"seed": 15, "team": "Queens (N.C.)"}]
+      ]
+    ],
+    [
+      [
+        [{"seed": 1, "team": "Florida"}, {"seed": 16, "team": "Prairie View A&M"}],
+        [{"seed": 8, "team": "Clemson"}, {"seed": 9, "team": "Iowa"}],
+        [{"seed": 5, "team": "Vanderbilt"}, {"seed": 12, "team": "McNeese"}],
+        [{"seed": 4, "team": "Nebraska"}, {"seed": 13, "team": "Troy"}],
+        [{"seed": 6, "team": "North Carolina"}, {"seed": 11, "team": "VCU"}],
+        [{"seed": 3, "team": "Illinois"}, {"seed": 14, "team": "Penn"}],
+        [{"seed": 7, "team": "Saint Mary's"}, {"seed": 10, "team": "Texas A&M"}],
+        [{"seed": 2, "team": "Houston"}, {"seed": 15, "team": "Idaho"}]
+      ]
+    ],
+    [
+      [
+        [{"seed": 1, "team": "Michigan"}, {"seed": 16, "team": "UMBC"}],
+        [{"seed": 8, "team": "Georgia"}, {"seed": 9, "team": "Saint Louis"}],
+        [{"seed": 5, "team": "Texas Tech"}, {"seed": 12, "team": "Akron"}],
+        [{"seed": 4, "team": "Alabama"}, {"seed": 13, "team": "Hofstra"}],
+        [{"seed": 6, "team": "Tennessee"}, {"seed": 11, "team": "Miami (Ohio)"}],
+        [{"seed": 3, "team": "Virginia"}, {"seed": 14, "team": "Wright St."}],
+        [{"seed": 7, "team": "Kentucky"}, {"seed": 10, "team": "Santa Clara"}],
+        [{"seed": 2, "team": "Iowa St."}, {"seed": 15, "team": "Tennessee St."}]
+      ]
+    ]
+  ],
+  "finalfour": [[], []]
+}

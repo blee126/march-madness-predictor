@@ -1,0 +1,23 @@
+{
+  "feature_order": [
+    "seed",
+    "adj_em",
+    "adj_o",
+    "adj_d",
+    "efg_pct",
+    "to_pct",
+    "orb_pct",
+    "ftr",
+    "opp_efg_pct",
+    "opp_to_pct",
+    "opp_orb_pct",
+    "opp_ftr",
+    "tempo",
+    "round_64",
+    "round_32",
+    "round_16",
+    "round_8",
+    "round_4",
+    "round_2"
+  ]
+}

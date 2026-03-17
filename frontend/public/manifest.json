@@ -1,0 +1,10 @@
+{
+  "name": "March Madness AI Bracket",
+  "short_name": "MM Bracket",
+  "description": "Build and predict your NCAA bracket with AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E6",
+  "theme_color": "#0033A0",
+  "orientation": "portrait-primary"
+}

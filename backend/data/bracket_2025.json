@@ -1,0 +1,400 @@
+{
+  "regions": [
+    [
+      [
+        {
+          "id": "East_1_Duke",
+          "team": "Duke",
+          "seed": 1
+        },
+        {
+          "id": "East_16_Mount_St_Marys",
+          "team": "Mount St. Mary's",
+          "seed": 16
+        }
+      ],
+      [
+        {
+          "id": "East_8_Mississippi_State",
+          "team": "Mississippi State",
+          "seed": 8
+        },
+        {
+          "id": "East_9_Baylor",
+          "team": "Baylor",
+          "seed": 9
+        }
+      ],
+      [
+        {
+          "id": "East_5_Oregon",
+          "team": "Oregon",
+          "seed": 5
+        },
+        {
+          "id": "East_12_Liberty",
+          "team": "Liberty",
+          "seed": 12
+        }
+      ],
+      [
+        {
+          "id": "East_4_Arizona",
+          "team": "Arizona",
+          "seed": 4
+        },
+        {
+          "id": "East_13_Akron",
+          "team": "Akron",
+          "seed": 13
+        }
+      ],
+      [
+        {
+          "id": "East_6_BYU",
+          "team": "BYU",
+          "seed": 6
+        },
+        {
+          "id": "East_11_VCU",
+          "team": "VCU",
+          "seed": 11
+        }
+      ],
+      [
+        {
+          "id": "East_3_Wisconsin",
+          "team": "Wisconsin",
+          "seed": 3
+        },
+        {
+          "id": "East_14_Montana",
+          "team": "Montana",
+          "seed": 14
+        }
+      ],
+      [
+        {
+          "id": "East_7_Saint_Marys",
+          "team": "Saint Mary's",
+          "seed": 7
+        },
+        {
+          "id": "East_10_Vanderbilt",
+          "team": "Vanderbilt",
+          "seed": 10
+        }
+      ],
+      [
+        {
+          "id": "East_2_Alabama",
+          "team": "Alabama",
+          "seed": 2
+        },
+        {
+          "id": "East_15_Robert_Morris",
+          "team": "Robert Morris",
+          "seed": 15
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "id": "West_1_Florida",
+          "team": "Florida",
+          "seed": 1
+        },
+        {
+          "id": "West_16_Norfolk_State",
+          "team": "Norfolk State",
+          "seed": 16
+        }
+      ],
+      [
+        {
+          "id": "West_8_UConn",
+          "team": "UConn",
+          "seed": 8
+        },
+        {
+          "id": "West_9_Oklahoma",
+          "team": "Oklahoma",
+          "seed": 9
+        }
+      ],
+      [
+        {
+          "id": "West_5_Memphis",
+          "team": "Memphis",
+          "seed": 5
+        },
+        {
+          "id": "West_12_Colorado_State",
+          "team": "Colorado State",
+          "seed": 12
+        }
+      ],
+      [
+        {
+          "id": "West_4_Maryland",
+          "team": "Maryland",
+          "seed": 4
+        },
+        {
+          "id": "West_13_Grand_Canyon",
+          "team": "Grand Canyon",
+          "seed": 13
+        }
+      ],
+      [
+        {
+          "id": "West_6_Missouri",
+          "team": "Missouri",
+          "seed": 6
+        },
+        {
+          "id": "West_11_Drake",
+          "team": "Drake",
+          "seed": 11
+        }
+      ],
+      [
+        {
+          "id": "West_3_Texas_Tech",
+          "team": "Texas Tech",
+          "seed": 3
+        },
+        {
+          "id": "West_14_UNC_Wilmington",
+          "team": "UNC Wilmington",
+          "seed": 14
+        }
+      ],
+      [
+        {
+          "id": "West_7_Kansas",
+          "team": "Kansas",
+          "seed": 7
+        },
+        {
+          "id": "West_10_Arkansas",
+          "team": "Arkansas",
+          "seed": 10
+        }
+      ],
+      [
+        {
+          "id": "West_2_St_Johns",
+          "team": "St. John's",
+          "seed": 2
+        },
+        {
+          "id": "West_15_Omaha",
+          "team": "Omaha",
+          "seed": 15
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "id": "South_1_Auburn",
+          "team": "Auburn",
+          "seed": 1
+        },
+        {
+          "id": "South_16_Alabama_State",
+          "team": "Alabama State",
+          "seed": 16
+        }
+      ],
+      [
+        {
+          "id": "South_8_Louisville",
+          "team": "Louisville",
+          "seed": 8
+        },
+        {
+          "id": "South_9_Creighton",
+          "team": "Creighton",
+          "seed": 9
+        }
+      ],
+      [
+        {
+          "id": "South_5_Michigan",
+          "team": "Michigan",
+          "seed": 5
+        },
+        {
+          "id": "South_12_UC_San_Diego",
+          "team": "UC San Diego",
+          "seed": 12
+        }
+      ],
+      [
+        {
+          "id": "South_4_Texas_A&M",
+          "team": "Texas A&M",
+          "seed": 4
+        },
+        {
+          "id": "South_13_Yale",
+          "team": "Yale",
+          "seed": 13
+        }
+      ],
+      [
+        {
+          "id": "South_6_Ole_Miss",
+          "team": "Ole Miss",
+          "seed": 6
+        },
+        {
+          "id": "South_11_North_Carolina",
+          "team": "North Carolina",
+          "seed": 11
+        }
+      ],
+      [
+        {
+          "id": "South_3_Iowa_State",
+          "team": "Iowa State",
+          "seed": 3
+        },
+        {
+          "id": "South_14_Lipscomb",
+          "team": "Lipscomb",
+          "seed": 14
+        }
+      ],
+      [
+        {
+          "id": "South_7_Marquette",
+          "team": "Marquette",
+          "seed": 7
+        },
+        {
+          "id": "South_10_New_Mexico",
+          "team": "New Mexico",
+          "seed": 10
+        }
+      ],
+      [
+        {
+          "id": "South_2_Michigan_State",
+          "team": "Michigan State",
+          "seed": 2
+        },
+        {
+          "id": "South_15_Bryant",
+          "team": "Bryant",
+          "seed": 15
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "id": "Midwest_1_Houston",
+          "team": "Houston",
+          "seed": 1
+        },
+        {
+          "id": "Midwest_16_SIU_Edwardsville",
+          "team": "SIU Edwardsville",
+          "seed": 16
+        }
+      ],
+      [
+        {
+          "id": "Midwest_8_Gonzaga",
+          "team": "Gonzaga",
+          "seed": 8
+        },
+        {
+          "id": "Midwest_9_Georgia",
+          "team": "Georgia",
+          "seed": 9
+        }
+      ],
+      [
+        {
+          "id": "Midwest_5_Clemson",
+          "team": "Clemson",
+          "seed": 5
+        },
+        {
+          "id": "Midwest_12_McNeese",
+          "team": "McNeese",
+          "seed": 12
+        }
+      ],
+      [
+        {
+          "id": "Midwest_4_Purdue",
+          "team": "Purdue",
+          "seed": 4
+        },
+        {
+          "id": "Midwest_13_High_Point",
+          "team": "High Point",
+          "seed": 13
+        }
+      ],
+      [
+        {
+          "id": "Midwest_6_Illinois",
+          "team": "Illinois",
+          "seed": 6
+        },
+        {
+          "id": "Midwest_11_Xavier",
+          "team": "Xavier",
+          "seed": 11
+        }
+      ],
+      [
+        {
+          "id": "Midwest_3_Kentucky",
+          "team": "Kentucky",
+          "seed": 3
+        },
+        {
+          "id": "Midwest_14_Troy",
+          "team": "Troy",
+          "seed": 14
+        }
+      ],
+      [
+        {
+          "id": "Midwest_7_UCLA",
+          "team": "UCLA",
+          "seed": 7
+        },
+        {
+          "id": "Midwest_10_Utah_State",
+          "team": "Utah State",
+          "seed": 10
+        }
+      ],
+      [
+        {
+          "id": "Midwest_2_Tennessee",
+          "team": "Tennessee",
+          "seed": 2
+        },
+        {
+          "id": "Midwest_15_Wofford",
+          "team": "Wofford",
+          "seed": 15
+        }
+      ]
+    ]
+  ],
+  "finalfour": [
+    [],
+    []
+  ]
+}

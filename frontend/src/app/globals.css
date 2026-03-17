@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ncaa-blue: #0033A0;
+  --ncaa-orange: #FF6B35;
+  --ncaa-cream: #F5F0E6;
+  --ncaa-dark: #1a1a2e;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply text-ncaa-dark;
+  }
+}
+
+/* Bracket lines */
+.bracket-line {
+  stroke: var(--ncaa-blue);
+  stroke-width: 2;
+  fill: none;
+}
+
+/* Touch-friendly tap targets on mobile */
+@media (max-width: 768px) {
+  .bracket-cell {
+    min-height: 44px;
+  }
+}
