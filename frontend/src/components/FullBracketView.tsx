@@ -109,7 +109,7 @@ function RegionTree({
   colorClass: string;
   reverse?: boolean;
 }) {
-  const roundKeys = (reverse ? [8, 16, 32, 64] : [64, 32, 16, 8]) as const;
+  const roundKeys: number[] = reverse ? [8, 16, 32, 64] : [64, 32, 16, 8];
   return (
     <div className="flex flex-col h-full">
       <div className={`font-display font-bold text-xs text-white px-2 py-1 rounded-t ${colorClass}`}>
