@@ -109,7 +109,7 @@ export default function BracketPage() {
         useSentimentWhenFilling && sentimentResult?.teams?.length
           ? Object.fromEntries(sentimentResult.teams.map((t) => [t.name, t.sentiment]))
           : undefined;
-      const res = await fetch(`${API}/api/fill-bracket`, {
+      const res = await fetch('/api/fill-bracket', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
