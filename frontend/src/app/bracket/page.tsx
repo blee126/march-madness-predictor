@@ -51,7 +51,8 @@ export default function BracketPage() {
 
   const loadBracket = useCallback(async () => {
     try {
-      const res = await fetch(`${API}/api/bracket`);
+      const bracketUrl = API ? `${API}/bracket` : '/api/bracket';
+      const res = await fetch(bracketUrl);
       if (!res.ok) throw new Error('Bracket not found');
       const data = await res.json();
       setBracket(data);
