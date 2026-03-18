@@ -40,8 +40,12 @@ def startup():
     global model_data
     try:
         model_data = load_model_and_teams(MODEL_PATH, TEAMS_PATH)
-    except (FileNotFoundError, Exception):
-        model_data = None  # Run: python train_model.py
+    except (FileNotFoundError, Exception) as e:
+        # Log full traceback so we can debug why the model failed to load in deployment
+        import traceback
+
+        traceback.print_exc()
+        model_data = None  # Run: python train_model.py (or ensure model/teams files are present)
 
 
 class PredictRequest(BaseModel):
